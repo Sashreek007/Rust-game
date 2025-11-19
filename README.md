@@ -18,3 +18,8 @@ The primary goal of this project was to move beyond theory and implement Rust's 
 ### 1. Ownership & Modules
 The project is split into three modules (`main`, `player`, `map`).
 - `main.rs` holds **ownership** of the `Player` and
+
+**Run directly:**
+```bash
+cargo run
+```
